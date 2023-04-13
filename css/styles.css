@@ -5,17 +5,6 @@ body {
 
 }
 
-/*
-.outer-box {
-    background-color: hsl(212, 45%, 89%);
-    margin: 50px auto 70px auto;
-    width: 1100px;
-    height: 500px;
-    display: flex;
-    justify-content: center;
-    border-radius: 15px;
-}
-*/
 .QR-box {
     background-color: white;
     width: 21%;
